@@ -1,0 +1,8 @@
+{
+  "variants": {
+        "facing=north": { "model": "block/lodestone" },
+        "facing=south": { "model": "block/lodestone", "y": 180 },
+        "facing=west":  { "model": "block/lodestone", "y": 270 },
+        "facing=east":  { "model": "block/lodestone", "y": 90 }
+    }
+}

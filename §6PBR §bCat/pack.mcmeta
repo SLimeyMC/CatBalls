@@ -2,7 +2,7 @@
 "pack": {
 "pack_format": 5,
 "description": [{
-"text":"PBR-ish ",
+"text":"Cartoony",
 "color":"blue"
 }, {
 "text":"Pack ",
@@ -11,7 +11,7 @@
 "text":"For ",
 "color":"white"
 }, {
-"text":"CatBall\n",
+"text":"Java edition\n",
 "color":"gray"
 }, {
 "text":"Authors:",

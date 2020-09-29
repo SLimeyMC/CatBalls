@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/chiseled_sandstone_cube",
+  "textures": {
+		"particle": "block/chiseled_sandstone_top",
+		"side_bottom": "block/chiseled_sandstone_bottom",
+		"side_middle": "block/chiseled_sandstone_middle",
+		"side_top": "block/chiseled_sandstone_top",
+		"top": "block/sandstone_top",
+		"bottom": "block/sandstone_bottom"
+	}
+}

@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
+title: "[Bug] Bug name"
 labels: ''
 assignees: ''
 
@@ -14,8 +14,8 @@ A clear and concise description of what the bug is.
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
-3. Scroll down to '....'
-4. See error
+3. Spawn '....'
+4. See an error
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
@@ -23,16 +23,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Minecraft**
+Version: [e.g. 1.16.4]
+Optifine build: [e.g. G3] (Not required, if not specified it will be tagged as vanilla]
 
 **Additional context**
 Add any other context about the problem here.
